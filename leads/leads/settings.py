@@ -40,8 +40,9 @@ INSTALLED_APPS = [
 
     # Own
     'rest_framework',
-    #'knox',
+    'knox',
     'leadsapi',
+    'accounts',
 ]
 
 MIDDLEWARE = [
